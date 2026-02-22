@@ -7,7 +7,7 @@ import androidx.core.net.toUri
 import org.lyrebird.spaceexplorer.getAndroidContext
 
 actual fun openBrowser(url: String?) {
-    val currentContext = getAndroidContext() ?: return // Context yoksa hiçbir şey yapma
+    val currentContext = getAndroidContext()
     if (url.isNullOrBlank()) return
 
     try {

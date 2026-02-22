@@ -14,7 +14,7 @@
     <string name= "error_message_general">We couldn’t connect to mission control. Please check your signal and try again.</string>
     <string name= "try_again">Try Again</string>
     <string name= "launch_detail_not_loaded">Launch details could not be loaded.</string>
-    <string name="success">SUCCESS</string>
-    <string name="failed">FAILED</string>
-    <string name="unknown">UNKNOWN</string>
+    <string name= "success">SUCCESS</string>
+    <string name= "failed">FAILED</string>
+    <string name= "unknown">UNKNOWN</string>
 </resources>

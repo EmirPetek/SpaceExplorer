@@ -14,7 +14,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
 
         if (org.koin.core.context.GlobalContext.getOrNull() == null) {
-        appContext = applicationContext
+            appContext = applicationContext
             initializeKoin {
                 modules()
             }
