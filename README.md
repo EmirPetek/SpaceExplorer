@@ -82,11 +82,11 @@ While most of the code is shared, certain features require native platform APIs.
 │   │           ├── screen     # Main screens (Home, Detail)
 │   │           ├── state      # Sealed classes for UI States
 │   │           └── viewmodel  # Shared ViewModels
-
+```
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5cf280a7-1a27-47f8-9f1a-2febe440f1b4" width="280" alt="Launch List Screen" />
