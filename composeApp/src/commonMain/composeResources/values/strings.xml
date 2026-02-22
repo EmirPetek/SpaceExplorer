@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name= "launches_list">Launches List</string>
+    <string name= "launch_detail">Launch Detail</string>
+    <string name= "no_details_available">No details available.</string>
+    <string name= "mission_overview">MISSION OVERVIEW</string>
+    <string name= "see_in_wikipedia_for">See in Wikipedia for</string>
+    <string name= "rocket">Rocket</string>
+    <string name= "height">HEIGHT</string>
+    <string name= "mass">MASS</string>
+    <string name= "watch_it_on">Watch it on</string>
+    <string name= "read_article">Read Article</string>
+    <string name= "oops_we_have_problem">Oops, We Have a Problem</string>
+    <string name= "error_message_general">We couldn’t connect to mission control. Please check your signal and try again.</string>
+    <string name= "try_again">Try Again</string>
+    <string name= "launch_detail_not_loaded">Launch details could not be loaded.</string>
+    <string name="success">SUCCESS</string>
+    <string name="failed">FAILED</string>
+    <string name="unknown">UNKNOWN</string>
+</resources>
