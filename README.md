@@ -31,7 +31,7 @@ UI states are managed using **Sealed Classes** (e.g., `LaunchListState`, `Launch
 
 ---
 
-## 🛠 Tech Stack & Libraries
+## Tech Stack & Libraries
 
 The project utilizes modern, industry-standard KMP libraries:
 
