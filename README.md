@@ -1,4 +1,4 @@
-# Space Explorer - Kotlin Multiplatform Case Study
+<img width="1080" height="2400" alt="Screenshot_20260222_200602" src="https://github.com/user-attachments/assets/f4bb7f2c-2e8e-4a53-99c4-c92b81ebbef0" /># Space Explorer - Kotlin Multiplatform Case Study
 
 A modern Kotlin Multiplatform (KMP) application designed to browse SpaceX launches and rocket details. This project demonstrates the power of sharing both business logic and user interface across Android and iOS platforms while maintaining a clean, scalable architecture.
 
@@ -82,3 +82,17 @@ While most of the code is shared, certain features require native platform APIs.
 │   │           ├── screen     # Main screens (Home, Detail)
 │   │           ├── state      # Sealed classes for UI States
 │   │           └── viewmodel  # Shared ViewModels
+
+
+## Screenshots
+
+<p align="center">
+    <img width="1080" height="2400" alt="Screenshot_20260222_200528" src="https://github.com/user-attachments/assets/5cf280a7-1a27-47f8-9f1a-2febe440f1b4" />
+    <img width="1080" height="2400" alt="Screenshot_20260222_200556" src="https://github.com/user-attachments/assets/cb19ded0-5836-4bc8-b8cd-0d4cd0210540" />
+    <img width="1080" height="2400" alt="Screenshot_20260222_200602" src="https://github.com/user-attachments/assets/00c2f41b-8b32-46b9-b84e-71d5c9e82180" />
+</p>
+
+
+
+
+
